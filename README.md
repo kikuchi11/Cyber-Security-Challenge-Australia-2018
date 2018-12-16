@@ -4,6 +4,6 @@ I represented The University of Melbourne at CySCA 2018, which is Australia's on
 
 *No mentors/coaches/cybersecurity related courses at The University of Melbourne
 
-Click on the link below to find out more about CySCA and my result.
+Click on the link below to find out more about CySCA and my result of CySCA 2018.
 
 https://www.cyberchallenge.com.au/2018/scoreboard/
